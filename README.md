@@ -45,7 +45,7 @@ All tasks for my **CSE0001 – Digital Literacy** project are maintained in a se
 | ✉️ Task 4 | Professional Email & Etiquette Guide |
 | 🔐 Task 5 | Cybercrime Awareness Case Study |
 
-> 📁 **Full project repository:** [github.com/nakshatra25mim10206-ux/Digital_Literacy](https://github.com/aryansharma/Digital_Literacy)
+> 📁 **Full project repository:** [github.com/nakshatra25mim10206-ux/Digital_Literacy](https://github.com/nakshatra25mim10206-ux/Digital_Literacy)
 
 > 🔗 **Digital Literacy Quiz (Google Form):** [Click here to take the quiz](https://docs.google.com/forms/d/e/1FAIpQLScsZkw7BZIeN54z8XtLHLcUZ_PFDUG1e6XynDBF44ZBRPkZjg/viewform?usp=publish-editor)
 
@@ -58,14 +58,6 @@ All tasks for my **CSE0001 – Digital Literacy** project are maintained in a se
 [![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)](https://hackerrank.com/aryansharma)
 
 ---
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Nakshatra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nakshatra25mim10206-ux&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nakshatra25mim10206-ux&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
